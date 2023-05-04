@@ -1,0 +1,13 @@
+Array, vector, deque, stack, queue, etc they all are very similar. They all use basic functions listed below: 
+ - at()
+ - begin()
+ - back()
+ - push()/ push_back()/ push_front()
+ - pop()/ pop_back()/ pop_front()
+ - size)()
+ - capacity()
+ - empty()
+ - clear()
+ - erase()
+ - front()
+ - top()
