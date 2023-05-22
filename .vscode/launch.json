@@ -28,8 +28,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/gupta/OneDrive/desktop/C++",
-      "program": "c:/Users/gupta/OneDrive/desktop/C++/build/Debug/outDebug",
+      "cwd": "c:/Users/gupta/OneDrive/desktop/C++/Linked List",
+      "program": "c:/Users/gupta/OneDrive/desktop/C++/Linked List/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
